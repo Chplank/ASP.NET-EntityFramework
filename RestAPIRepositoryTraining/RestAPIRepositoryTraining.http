@@ -1,0 +1,6 @@
+@RestAPIRepositoryTraining_HostAddress = http://localhost:5245
+
+GET {{RestAPIRepositoryTraining_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
